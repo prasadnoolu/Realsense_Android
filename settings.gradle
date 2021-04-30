@@ -1,0 +1,4 @@
+include ':RealSenseID_secured_release'
+include ':RealSenseID_unsecured_release'
+rootProject.name='RealSenseID Android Example'
+include ':app'

@@ -1,0 +1,14 @@
+*.iml
+
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+.gradle
+.project
+.settings
+RealSenseID_secured_release/build
+RealSenseID_unsecured_release/build
